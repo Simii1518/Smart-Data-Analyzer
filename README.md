@@ -6,7 +6,7 @@ A GUI-based desktop application built with Python that enables business users to
 
 A complete walkthrough of the Smart Data Analyzer application is available below:
 
-[📥 Download Demo Video](./demo%20video%20zip/Demo%20Video%20Smart%20Data%20Analyzer.zip)
+[📥 Download Demo Video](./Demo_Video.zip/Demo%20Video%20Smart%20Data%20Analyzer.zip)
 
 The demo showcases:
 - File Selection & Reading
