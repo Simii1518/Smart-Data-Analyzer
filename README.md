@@ -2,6 +2,20 @@
 
 A GUI-based desktop application built with Python that enables business users to analyze Excel and CSV data without writing code.
 
+## 🎥 Demo Video
+
+A complete walkthrough of the Smart Data Analyzer application is available below:
+
+[📥 Download Demo Video](./demo%20video%20zip/Demo%20Video%20Smart%20Data%20Analyzer.zip)
+
+The demo showcases:
+- File Selection & Reading
+- Dynamic Column Detection
+- Report Generation
+- Data Visualization
+- Report Export
+- Chart Export
+  
 ## Features
 
 * Import Excel and CSV files
